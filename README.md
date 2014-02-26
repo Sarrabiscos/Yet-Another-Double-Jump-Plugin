@@ -5,6 +5,5 @@ YADJP is a simple and light weighted, but yet highly customizable double jump pl
 Links:
 ==============================
   BukkitDev: http://dev.bukkit.org/bukkit-plugins/yadjp/
-  Wartuga: http://wartuga.pt/
   
 By Sarrabiscos
